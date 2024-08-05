@@ -1,10 +1,10 @@
 Project Summary:
 
-Title: ExploreAway - Your Ultimate Tourist Companion
+Title: Tourly - Your Ultimate Tourist Companion
 
 Description:
 
-Welcome to ExploreAway, a meticulously crafted tourist website designed to elevate your travel experience to new heights! Developed with passion and precision, this platform is your go-to destination for discovering the world's most captivating destinations, hidden gems, and unforgettable experiences.
+Welcome to Tourly, a meticulously crafted tourist website designed to elevate your travel experience to new heights! Developed with passion and precision, this platform is your go-to destination for discovering the world's most captivating destinations, hidden gems, and unforgettable experiences.
 
 Key Features:
 
